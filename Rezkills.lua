@@ -3,7 +3,7 @@
 --   Version 1.1 - Fully Working Auto Farm
 -- =============================================
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/jensonhirst/Orion/main/source')))()
 
 local Window = OrionLib:MakeWindow({
     Name = "Rezkills Hub - Made by Nissあ 🔥",
