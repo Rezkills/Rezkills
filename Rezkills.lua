@@ -1,5 +1,5 @@
 -- =============================================
---   MY BLOX FRUITS HUB - Made by [Nissあ]
+--   Rezkills - Made by [Nissあ]
 --   Version 1.0
 -- =============================================
 
@@ -65,7 +65,7 @@ FarmTab:AddToggle({
     end
 })
 
--- =============== MORE TABS (you can expand) ===============
+-- =============== MORE TABS ===============
 local MiscTab = Window:MakeTab({Name = "Misc", Icon = "rbxassetid://6034509993"})
 
 MiscTab:AddButton({
